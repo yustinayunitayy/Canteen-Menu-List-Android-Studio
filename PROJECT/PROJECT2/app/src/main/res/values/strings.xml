@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">trialproject</string>
+    <string name="presuniv_canteen">Presuniv Canteen</string>
+    <string name="tagline">Where quality and convenience meet</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="back">Back to Homescreen</string>
+    <string name="email">Email</string>
+    <string name="start">Start</string>
+    <string name="home">Home</string>
+    <string name="stall">Stall</string>
+    <string name="order">Order</string>
+    <string name="contact">Contact</string>
+    <string name="contact_us">Contact Us :</string>
+    <string name="instagram_presunivcanteen">Instagram : @presunivcanteen</string>
+    <string name="located_in_1st_floor">Located in 1st Floor</string>
+    <string name="located_in_2nd_floor">Located in 2nd Floor</string>
+    <string name="k_bab">K\'Bab</string>
+    <string name="comeback_food_campus">Comeback Food to Campus</string>
+    <string name="rumah_makan_padang">Rumah Makan Padang Minanjau Indah</string>
+    <string name="masakan_bunda">Masakan Bunda</string>
+    <string name="family_kantin">Family Kantin</string>
+    <string name="kurnia_juice">Kurnia Juice</string>
+    <string name="pu_normal">PU - NORMAL</string>
+    <string name="next_page">Next Page</string>
+    <string name="previous_page">Previous Page</string>
+    <string name="baso_pojok">Baso Pojok </string>
+    <string name="roemah_radang">Roemah_Radang</string>
+    <string name="kurnia_food">KURNIA FOOD </string>
+    <string name="dapur_mbak_e">DAPUR MBAK\'E </string>
+    <string name="kedai_sehati">Kedai SEHATI </string>
+    <string name="siomay_president">Siomay President</string>
+    <string name="jolicious">JOlicious</string>
+    <string name="cafe_president_university">Cafe President University</string>
+    <string name="waroenk_plat_d">Waroenk Plat D</string>
+    <string name="mom_s_kitchen">Mom\'s Kitchen</string>
+    <string name="did_nt_have_an_account_yet_click_register">Did\'nt have an account yet? Click Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
